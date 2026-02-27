@@ -27,6 +27,16 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
+    "/match": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/match.js"
+    ],
+    "/skills": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/skills.js"
+    ],
     "/users": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",

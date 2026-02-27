@@ -2,6 +2,9 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/users": "pages/users.js",
-  "/": "pages/index.js"
+  "/": "pages/index.js",
+  "/offered": "pages/offered.js",
+  "/match": "pages/match.js",
+  "/skills": "pages/skills.js",
+  "/users": "pages/users.js"
 }
